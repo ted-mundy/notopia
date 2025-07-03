@@ -1,3 +1,3 @@
 # notopia
 
-tldr: server browser + protocol + save management for growtopia preparing for it to shut down.
+tldr: server browser + protocol + save management + private server (eventually) for growtopia preparing for it to shut down.
