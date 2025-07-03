@@ -1,2 +1,3 @@
 # notopia
-Saving Growtopia from impending Ubisoft death 🏡
+
+tldr: server browser + protocol + save management for growtopia preparing for it to shut down.
